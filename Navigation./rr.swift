@@ -12,6 +12,7 @@ struct rr: View {
         Image("rickRoll")
         Text("YOU GOT RICKROLLED!")
             .font(.largeTitle)
+        
     }
 }
 
